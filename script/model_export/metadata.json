@@ -1,0 +1,31 @@
+{
+  "feature_names": [
+    "category_encoded",
+    "price_place",
+    "city_encoded"
+  ],
+  "input_shape": [
+    3
+  ],
+  "categories": [
+    "Bahari",
+    "Budaya",
+    "Cagar Alam",
+    "Pusat Perbelanjaan",
+    "Taman Hiburan",
+    "Tempat Ibadah"
+  ],
+  "cities": [
+    "Bandung",
+    "Jakarta Barat",
+    "Jakarta Pusat",
+    "Jakarta Selatan",
+    "Jakarta Timur",
+    "Jakarta Utara",
+    "Kepulauan Seribu",
+    "Semarang",
+    "Surabaya",
+    "Yogyakarta"
+  ],
+  "model_version": "1.0"
+}

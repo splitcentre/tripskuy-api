@@ -1,0 +1,4 @@
+tensorflow==2.18.0  # Atau versi lain yang Anda gunakan
+scikit-learn
+numpy
+pandas
